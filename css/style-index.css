@@ -1,0 +1,32 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css");
+
+/*Essa formatação serve para formatar todo o conteudo, como se estivesse deixando ele puro sem nenhuma formatação, sendo assim melhorando a forma de editar e estilizar os componentes*/
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Questrial';
+}
+
+.foto-perfil{
+    height: 25vh;
+    width: 25vh;
+    max-width: 100%;
+    border-radius: 5%;
+    margin: 50px;
+}
+
+.card-img-top {
+    height: 225px;
+    width: 100%;
+    display: block;
+}
+
+.vertical-center {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.album{
+    margin: 250px 0px 250px 0px;
+}

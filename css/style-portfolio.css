@@ -1,0 +1,100 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css");
+
+/*Essa formatação serve para formatar todo o conteudo, como se estivesse deixando ele puro sem nenhuma formatação, sendo assim melhorando a forma de editar e estilizar os componentes*/
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Questrial';
+}
+
+.sessao-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sessao-header h1{
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+
+.vertical-center {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+  }
+
+  .card-img-top {
+    height: 225px;
+    width: 100%;
+    display: block;
+}
+
+.album{
+    margin: 250px 0px 250px 0px;
+}
+
+.projetos{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5rem;
+}
+.card{
+    width: 19rem;
+    height: 25rem;
+    border: none !important;
+    position: relative;
+}
+
+.card-img-wrapper{
+    width: 100%;
+    height: 100%;
+    background-color: #262626;
+    border-radius: .5rem;
+}
+
+.card-img-wrapper img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    opacity: .8;
+    border-radius: .5rem;
+    transition: opacity .3s;
+}
+
+.card:hover .card-img-wrapper img{
+    opacity: .5;
+}
+
+.card-info{
+    position: absolute;
+    bottom: 0;
+    opacity: 0;
+    visibility: hidden;
+    padding: 1rem 0rem 1rem 3rem;
+    text-shadow: 0.3rem 0.2rem 0.3rem rgba(0, 0, 0, .6);
+    transition: all .3s;
+}
+
+.card-info h2{
+    font-size: 2rem;
+    font-weight: bolder;
+    color: #eee;
+}
+.card-info h3{
+    color: #d60084;
+}
+
+.card-info p{
+    color: #eee;
+    font-weight: 400;
+    width: 80%;
+}
+
+.card:hover .card-info{
+    bottom: 4rem;
+    opacity: 1;
+    visibility: visible;
+}
