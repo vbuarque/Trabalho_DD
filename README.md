@@ -16,14 +16,14 @@ Para a organização do repositório separei o codigo/imagens na pasta chamada s
 
 
 ## Layout mobile
-![Mobile 1](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/mgt/Mobile/Home.png) 
+![Mobile 1](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/assets/Mobile/Home.png) 
 
-![Mobile 2](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/mgt/Mobile/Conhecimentos.png)
+![Mobile 2](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/assets/Mobile/Conhecimentos.png)
 
 ## Layout web
-![Web 1](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/mgt/DesktopWeb/HomeSobre.png)
+![Web 1](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/assets/DesktopWeb/HomeSobre.png)
 
-![Web 2](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/mgt/DesktopWeb/Conhecimentos.png)
+![Web 2](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/assets/DesktopWeb/Conhecimentos.png)
 
 # Tecnologias utilizadas
 ## Front end
