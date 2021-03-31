@@ -1,0 +1,51 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css");
+
+/*Essa formatação serve para formatar todo o conteudo, como se estivesse deixando ele puro sem nenhuma formatação, sendo assim melhorando a forma de editar e estilizar os componentes*/
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Questrial';
+}
+
+.sessao-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sessao-header h1{
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.container {
+    margin-top: 100px;
+    padding: 0px 150px 100px 150px !important;
+    background-color: #999999;
+    border-radius: 72px;
+}
+
+.sessao-contato {
+    padding: 25px !important;
+    
+}
+
+.container h3{
+    display: inline-block;
+}
+
+
+
+.container a {
+    text-decoration: none !important;
+    color: #262626;
+}
+
+a:hover {
+    color: #616161 !important;
+}
+  
