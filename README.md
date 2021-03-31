@@ -1,3 +1,7 @@
+# Apresentação
+
+Meu nome é Vinicius Buarque, sou estudante do curso Desenvolvimento de Software Multiplataforma (DSM) da FATEC - SJC Turma 2021 e estou desenvolvendo este projeto.
+
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/LICENSE) 
 
 # Sobre o projeto
