@@ -14,6 +14,9 @@ Foi iniciado com base nas aulas de Design Digital do curso Desenvolvimento de So
 
 Para a organização do repositório separei o codigo/imagens na pasta chamada src e um PDF com as imagens do Wireframe na pasta chamada mgt.
 
+# Assista a apresentação desse projeto
+
+https://youtu.be/Dz8tU6mH9co
 
 ## PDF com todos os wireframes
 
