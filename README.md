@@ -38,9 +38,10 @@ https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/mgt/Wireframes.pdf
 
 # Tecnologias utilizadas
 ## Front end
-[![NPM]("https://img.shields.io/badge/Figma-7e35a0?style=for-the-badge&logo=Figma&logoColor=white")
-[![NPM]("https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white")
-[![NPM]("https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white")
+- HTML-5
+- CSS-3
+- BOOTSTRAP
+- FIGMA
 
 # Autor
 
