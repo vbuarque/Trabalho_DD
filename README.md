@@ -14,16 +14,24 @@ Foi iniciado com base nas aulas de Design Digital do curso Desenvolvimento de So
 
 Para a organização do repositório separei o codigo/imagens na pasta chamada src e um PDF com as imagens do Wireframe na pasta chamada mgt.
 
+# Assista a apresentação desse projeto
+
+https://youtu.be/Dz8tU6mH9co
+
+## PDF com todos os wireframes
+
+https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/mgt/Wireframes.pdf
 
 ## Layout mobile
-![Mobile 1](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/mgt/Mobile/Home.png) 
+![Mobile 1](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/assets/Mobile/Home.png) 
 
-![Mobile 2](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/mgt/Mobile/Conhecimentos.png)
+![Mobile 2](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/assets/Mobile/Conhecimentos.png)
 
 ## Layout web
-![Web 1](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/mgt/DesktopWeb/HomeSobre.png)
+![Web 1](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/assets/DesktopWeb/HomeSobre.png)
 
-![Web 2](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/mgt/DesktopWeb/Conhecimentos.png)
+![Web 2](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/assets/DesktopWeb/Conhecimentos.png)
+
 
 # Tecnologias utilizadas
 ## Front end
