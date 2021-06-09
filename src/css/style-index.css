@@ -21,7 +21,7 @@
 }
 
 .vertical-center {
-    min-height: 80vh;
+    min-height: 100vh;
     display: flex;
     align-items: center;
 }
@@ -35,6 +35,7 @@
 .sessao-header h1{
     font-size: 3rem;
     margin-top: 1.5rem;
+    margin-bottom: 3rem;
 }
 
 .jumbotron {
@@ -49,4 +50,9 @@
     color: #fff;
     font-size: 20px;
     text-shadow: 2px 2px 5px black;
+}
+
+.sec-sobre {
+    margin-top: 250px;
+    margin-bottom: 250px;
 }
