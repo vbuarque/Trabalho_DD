@@ -1,6 +1,6 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css");
 
-/*Essa formatação serve para formatar todo o conteudo, como se estivesse deixando ele puro sem nenhuma formatação, sendo assim melhorando a forma de editar e estilizar os componentes*/
+/*Essa formatação serve para formatar todo o conteúdo, como se estivesse deixando ele puro sem nenhuma formatação, sendo assim melhorando a forma de editar e estilizar os componentes*/
 * {
     padding: 0;
     margin: 0;
@@ -37,6 +37,16 @@
     margin-top: 1.5rem;
 }
 
-.album{
-   
+.jumbotron {
+    background-image: url("https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-size: cover;
+    color: white;
+    text-shadow: 1 1 1 ;
+    border-radius: 0 0 0 0 !important;
+}
+
+.sec-jumbo p{
+    color: #fff;
+    font-size: 20px;
+    text-shadow: 2px 2px 5px black;
 }

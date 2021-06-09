@@ -65,7 +65,7 @@
 }
 
 .card:hover .card-img-wrapper img{
-    opacity: .5;
+    opacity: 0.3;
 }
 
 .card-info{
@@ -84,7 +84,7 @@
     color: #eee;
 }
 .card-info h3{
-    color: #d60084;
+    color: #ffffff;
 }
 
 .card-info p{
