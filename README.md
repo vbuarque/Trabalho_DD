@@ -12,7 +12,7 @@ Este projeto consiste em treinar e aperfeiçoar as habilidades de design e desen
 
 Foi iniciado com base nas aulas de Design Digital do curso Desenvolvimento de Software Multiplataforma (DSM) da FATEC - SJC.
 
-Para a organização do repositório separei o codigo/imagens na pasta chamada src e um PDF com as imagens do Wireframe na pasta chamada mgt.
+Para a organização do repositório separei o codigo/imagens na pasta chamada src e um PDF com as imagens do Wireframe e do projeto final na pasta chamada mgt.
 
 # Assista a apresentação desse projeto
 
