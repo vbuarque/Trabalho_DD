@@ -2,13 +2,13 @@
 
 Meu nome é Vinicius Buarque, sou estudante do curso Desenvolvimento de Software Multiplataforma (DSM) da FATEC - SJC Turma 2021 e estou desenvolvendo este projeto.
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/LICENSE)
 
 # Sobre o projeto
 
 
 
-Este projeto consiste em treinar e aperfeiçoar as habilidades de design e desenvolvimento web, nele temos que desenvolver um site sobre uma Página Pessoal.
+Este projeto consiste em treinar e aperfeiçoar as habilidades de design e desenvolvimento web, nele temos que desenvolver um site Portfólio, integrando responsividade no site de modo tal que fique compativel a diversos dispositivos.
 
 Foi iniciado com base nas aulas de Design Digital do curso Desenvolvimento de Software Multiplataforma (DSM) da FATEC - SJC.
 
@@ -32,11 +32,15 @@ https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/mgt/Wireframes.pdf
 
 ![Web 2](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/assets/DesktopWeb/Conhecimentos.png)
 
+## Layout web FINAL
+![Web 1](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/assets/DesktopWeb/desktopFinal.png)
+![Web 1](https://github.com/Viniciusbuarque/Trabalho_DD/blob/main/assets/DesktopWeb/desktopFinal2.png)
 
 # Tecnologias utilizadas
 ## Front end
-- HTML / CSS 
-- Bootstrap
+[![NPM]("https://img.shields.io/badge/Figma-7e35a0?style=for-the-badge&logo=Figma&logoColor=white")
+[![NPM]("https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white")
+[![NPM]("https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white")
 
 # Autor
 
